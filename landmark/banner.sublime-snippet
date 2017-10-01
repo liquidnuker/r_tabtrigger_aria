@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="banner"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-land-banner</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="banner" | header, div id=header</description>
+  <scope>source.html, text.html</scope>
+</snippet>

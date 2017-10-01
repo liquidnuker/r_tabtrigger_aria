@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="note"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-land-note</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="note" | nav</description>
+  <scope>source.html, text.html</scope>
+</snippet>
