@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+aria-dropeffect="${1:copy|move|popup|execute|link|none}"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>aria-attr-dragdrop-dropeffect</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria-dropeffect | </description>
+  <scope>source.html, text.html</scope>
+</snippet>
