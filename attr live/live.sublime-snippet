@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+aria-live="${1:assertive}${2:|polite|off}"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>aria-attr-live</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria-live | </description>
+  <scope>source.html, text.html</scope>
+</snippet>

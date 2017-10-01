@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+aria-busy="${1:true}${2:false}"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>aria-attr-live-busy</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria-busy | if being updated</description>
+  <scope>source.html, text.html</scope>
+</snippet>
