@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+aria-checked="${1:bool|mixed|undefined}"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>aria-attr-widget-checked</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria-checked|option,checkbox,radio,buttons...</description>
+  <scope>source.html, text.html</scope>
+</snippet>

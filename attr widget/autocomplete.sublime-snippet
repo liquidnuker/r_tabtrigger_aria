@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+aria-autocomplete="${1:inline|list|both|none}"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>aria-attr-widget-autocomplete</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria-autocomplete|combobox,textbox</description>
+  <scope>source.html, text.html</scope>
+</snippet>
