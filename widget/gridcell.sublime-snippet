@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="gridcell"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-gridcell</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="gridcell" | td</description>
+  <scope>source.html, text.html</scope>
+</snippet>

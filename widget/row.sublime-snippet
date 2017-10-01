@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="row"
+]]></content>
+  <!-- rowal: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-row</tabTrigger>
+  <!-- rowal: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="row" | tr</description>
+  <scope>source.html, text.html</scope>
+</snippet>

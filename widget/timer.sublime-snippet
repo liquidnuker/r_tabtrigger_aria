@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="timer"
+]]></content>
+  <tabTrigger>role-widget-timer</tabTrigger>
+  <description>aria role="timer" | </description>
+  <scope>source.html, text.html</scope>
+</snippet>

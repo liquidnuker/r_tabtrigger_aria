@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="rowgroup"
+]]></content>
+  <tabTrigger>role-widget-rowgroup</tabTrigger>
+  <description>aria role="rowgroup" | thead, tbody, tfoot</description>
+  <scope>source.html, text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="toolbar"
+]]></content>
+  <tabTrigger>role-widget-toolbar</tabTrigger>
+  <description>aria role="toolbar" | menu type="toolbar</description>
+  <scope>source.html, text.html</scope>
+</snippet>

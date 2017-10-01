@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="progressbar"
+]]></content>
+  <!-- progressbaral: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-progressbar</tabTrigger>
+  <!-- progressbaral: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="progressbar" | progressbar</description>
+  <scope>source.html, text.html</scope>
+</snippet>

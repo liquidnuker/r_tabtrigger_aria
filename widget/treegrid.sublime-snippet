@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="treegrid"
+]]></content>
+  <tabTrigger>role-widget-treegrid</tabTrigger>
+  <description>aria role="treegrid" | </description>
+  <scope>source.html, text.html</scope>
+</snippet>

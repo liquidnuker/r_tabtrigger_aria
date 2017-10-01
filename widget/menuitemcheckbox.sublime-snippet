@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="menuitemcheckbox" aria-checked="${1:true}"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-menuitemcheckbox</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="menuitemcheckbox" | </description>
+  <scope>source.html, text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="textbox"
+]]></content>
+  <tabTrigger>role-widget-textbox</tabTrigger>
+  <description>aria role="textbox" | text inputs</description>
+  <scope>source.html, text.html</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="treeitem"
+]]></content>
+  <tabTrigger>role-widget-treeitem</tabTrigger>
+  <description>aria role="treeitem" | </description>
+  <scope>source.html, text.html</scope>
+</snippet>

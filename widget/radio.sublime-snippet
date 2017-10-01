@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="radio"
+]]></content>
+  <!-- radioal: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-radio</tabTrigger>
+  <!-- radioal: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="radio" | input type="radio"</description>
+  <scope>source.html, text.html</scope>
+</snippet>

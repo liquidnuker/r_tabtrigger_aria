@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="tablist"
+]]></content>
+  <tabTrigger>role-widget-tablist</tabTrigger>
+  <description>aria role="tablist" | </description>
+  <scope>source.html, text.html</scope>
+</snippet>

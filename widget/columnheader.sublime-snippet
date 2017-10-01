@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="columnheader"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-columnheader</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="columnheader" | th scope=col</description>
+  <scope>source.html, text.html</scope>
+</snippet>

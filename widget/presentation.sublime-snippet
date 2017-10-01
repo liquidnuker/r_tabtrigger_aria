@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="presentation"
+]]></content>
+  <!-- presentational: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-presentation</tabTrigger>
+  <!-- presentational: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="presentation" | </description>
+  <scope>source.html, text.html</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+role="alertdialog"
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>role-widget-alertdialog</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <description>aria role="alertdialog" | alert, dialog</description>
+  <scope>source.html, text.html</scope>
+</snippet>

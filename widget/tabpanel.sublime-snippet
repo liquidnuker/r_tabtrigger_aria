@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+role="tabpanel"
+]]></content>
+  <tabTrigger>role-widget-tabpanel</tabTrigger>
+  <description>aria role="tabpanel" | </description>
+  <scope>source.html, text.html</scope>
+</snippet>
