@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-role="option" aria-checked="${1:bool|mixed|undefined}" aria-selected="${2:bool|undefined}" aria-setsize="${3:int}" aria-posinset="${4:int}"
+aria-flowto="${1:}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>role-widget-option</tabTrigger>
+  <tabTrigger>aria-attr-rel-flowto</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <description>aria role="option" | option</description>
+  <description>aria-flowto |</description>
   <scope>source.html, text.html</scope>
 </snippet>

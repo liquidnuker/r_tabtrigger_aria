@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="listitem" aria-level="${1:int}"
+role="listitem" aria-level="${1:int}" aria-setsize="${2:int}" aria-posinset="${3:int}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-listitem</tabTrigger>
