@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="grid"
+role="grid" aria-level="${1:int}" aria-multiselectable="${2:bool}" aria-readonly="${3:bool}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-grid</tabTrigger>

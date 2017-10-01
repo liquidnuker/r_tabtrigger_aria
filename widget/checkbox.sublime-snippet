@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="checkbox"
+role="checkbox" aria-checked="${1:bool|mixed|undefined}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-checkbox</tabTrigger>

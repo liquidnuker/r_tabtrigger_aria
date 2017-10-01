@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="button"
+role="button" aria-expanded="${1:bool|undefined}" aria-pressed="${2:bool|mixed|undefined}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-button</tabTrigger>

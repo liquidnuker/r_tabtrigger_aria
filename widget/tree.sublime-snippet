@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="tree"
+role="tree" aria-multiselectable="${1:bool}" aria-required="${2:bool}"
 ]]></content>
   <tabTrigger>role-widget-tree</tabTrigger>
   <description>aria role="tree" | </description>

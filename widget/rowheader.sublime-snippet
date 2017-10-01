@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="rowheader"
+role="rowheader" aria-sort="${1:asc}${2:desc}ending${3:|none|other}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-rowheader</tabTrigger>

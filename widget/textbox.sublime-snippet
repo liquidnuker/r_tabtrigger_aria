@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="textbox"
+role="textbox" aria-autocomplete="${1:inline|list|both|none}" aria-multiline="${2:bool}" aria-readonly="${3:bool}" aria-required="${4:bool}"
 ]]></content>
   <tabTrigger>role-widget-textbox</tabTrigger>
   <description>aria role="textbox" | text inputs</description>

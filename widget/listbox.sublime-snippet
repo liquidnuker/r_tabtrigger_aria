@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-role="gridcell" aria-readonly="${1:bool}" aria-required="${2:bool}" aria-selected="${3:bool|undefined}"
+role="listbox" aria-multiselectable="${1:true}${2:false}" aria-required="${3:true}${4:false}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>role-widget-gridcell</tabTrigger>
+  <tabTrigger>role-widget-listbox</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <description>aria role="gridcell" | td</description>
+  <description>aria role="listbox" | </description>
   <scope>source.html, text.html</scope>
 </snippet>

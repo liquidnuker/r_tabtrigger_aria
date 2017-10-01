@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="heading" aria-level="${1:}"
+role="heading" aria-level="${1:int}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-heading</tabTrigger>

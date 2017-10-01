@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="columnheader"
+role="columnheader" aria-sort="ascending${1:descending|none|other}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-columnheader</tabTrigger>

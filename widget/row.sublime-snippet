@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="row"
+role="row" aria-level="${1:int}" aria-selected="${2:bool|undefined}"
 ]]></content>
   <!-- rowal: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-row</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="tablist"
+role="tablist" aria-level="${1:int}"
 ]]></content>
   <tabTrigger>role-widget-tablist</tabTrigger>
   <description>aria role="tablist" | </description>

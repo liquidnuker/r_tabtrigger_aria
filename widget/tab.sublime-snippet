@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="tab"
+role="tab" aria-selected="${1:bool|undefined}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-tab</tabTrigger>

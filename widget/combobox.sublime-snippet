@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="combobox"
+role="combobox" aria-autocomplete="${1:inline|list|both|none}" aria-required="${2:true}${3:false}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-combobox</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-role="radiogroup"
+role="radiogroup" aria-required="${1:true}${2:false}"
 ]]></content>
   <!-- radiogroupal: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>role-widget-radiogroup</tabTrigger>
