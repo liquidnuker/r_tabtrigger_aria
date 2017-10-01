@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-aria-owns="${1:}"
+aria-owns="${1:IDchild/list}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>aria-attr-rel-owns</tabTrigger>

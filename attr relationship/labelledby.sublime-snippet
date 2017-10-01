@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-aria-labelledby="${1:}"
+aria-labelledby="${1:labelledbyThisID}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>aria-attr-rel-labelledby</tabTrigger>

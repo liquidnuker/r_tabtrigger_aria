@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-aria-describedby="${1:}"
+aria-describedby="${1:IDofElThatDescribeThis}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>aria-attr-rel-describedby</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <description>aria-describedby |</description>
+  <description>aria-describedby| Id of el that describe it</description>
   <scope>source.html, text.html</scope>
 </snippet>

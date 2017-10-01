@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-aria-controls="${1:}"
+aria-controls="${1:ID of el with aria-live to update}"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>aria-attr-rel-controls</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <description>aria-controls |</description>
+  <description>aria-controls |controls to el with aria-live</description>
   <scope>source.html, text.html</scope>
 </snippet>

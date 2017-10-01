@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-aria-relevant="${1:additions|removals|text|all}"
+aria-relevant="${1:additions text}${2:removals}all"
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>aria-attr-live-relevant</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <description>aria-relevant | </description>
+  <description>aria-relevant|what types of changes</description>
   <scope>source.html, text.html</scope>
 </snippet>
